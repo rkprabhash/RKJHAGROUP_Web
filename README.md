@@ -4,11 +4,11 @@ Static company website for RKJHA Group, positioned as a project development comp
 
 ## Focus areas
 
-- Business analytics using Power BI
-- Website design for schools, colleges, and businesses
+- Business analytics
+- Website development and SEO
 - Online application and registration systems
-- CCTV and automation planning
-- Security consulting
+- Security consultation
+- CCTV installation and maintenance support
 
 ## Contact
 
