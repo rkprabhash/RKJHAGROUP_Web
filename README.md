@@ -12,8 +12,9 @@ Static company website for RKJHA Group, positioned as a project development comp
 
 ## Contact
 
-- Email: prabhash.kumar@rkjhagroup.in
-- Phone: +91-7004200836
+- General: contact@rkjhagroup.in
+- Sales: sales@rkjhagroup.in
+- Support: support@rkjhagroup.in
 
 ## Preview
 
